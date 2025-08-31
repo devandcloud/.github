@@ -23,16 +23,6 @@ in the fields of **IT, Cloud (AWS), DevOps, and SaaS**.
 
 ---
 
-## 💖 Support Us
-
-We welcome your support! By sponsoring us, you help keep our projects growing and thriving.
-
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue)]()
-
-[![Sponsor us on Patreon](https://img.shields.io/badge/Sponsor-Patreon-orange)](https://www.patreon.com/DevAndCloud)
-
----
-
 ## 📢 Stay Connected
 
 Follow us for updates, discussions, and community news:
