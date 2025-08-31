@@ -1,7 +1,9 @@
-# 🌟 Welcome to MonOrg 🌟
+# 🌟 Welcome to DevAndCloud 🌟
 
-We are passionate about creating **open-source projects** that make a difference.  
-Join our community, explore our projects, and consider supporting us to keep the innovation alive!
+We are a **software development company** specialized in building modern **IT solutions** and **cloud infrastructures** (currently with AWS).  
+Our mission is twofold:  
+- Deliver high-quality solutions for our clients.  
+- Share **free and open-source projects** with the community to empower developers worldwide.  
 
 ---
 
@@ -28,6 +30,7 @@ Follow us for updates, discussions, and community news:
 
 - [GitHub Discussions](https://github.com/devandcloud)
 - [Linkedin](https://www.linkedin.com/company/devandcloud)
+- [Website](https://devandcloud.com/)
 
 ---
 
