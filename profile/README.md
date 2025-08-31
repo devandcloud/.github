@@ -7,18 +7,27 @@ Our mission is twofold:
 
 ---
 
-## 🚀 Our Projects
+## 🚀 Free & Open-Source Projects
 
-Here are some of the projects we're proud of:
+We love sharing tools and resources with the community:
 
 - [React S3 Deployment Boilerplate](https://github.com/devandcloud/react-s3) – A modern React TypeScript application built with Vite, optimized for deployment on AWS S3 with CloudFront.
 - ...
 
 ---
 
+## 💼 Client Solutions
+
+We also build and maintain private, production-grade solutions for our clients  
+in the fields of **IT, Cloud (AWS), DevOps, and SaaS**.
+
+---
+
 ## 💖 Support Us
 
 We welcome your support! By sponsoring us, you help keep our projects growing and thriving.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue)]()
 
 [![Sponsor us on Patreon](https://img.shields.io/badge/Sponsor-Patreon-orange)](https://www.patreon.com/DevAndCloud)
 
